@@ -1,3 +1,6 @@
-print("Hello World1")
-print("Hello World2")
-print("Hello World3")
+
+충돌테스트~
+abc
+abc
+abc
+
